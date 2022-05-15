@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853907792035",
+    "project_id": "shoppingonline-4e257",
+    "storage_bucket": "shoppingonline-4e257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853907792035:android:6f681d0f89dc2e94c35f16",
+        "android_client_info": {
+          "package_name": "com.example.shoping_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853907792035-a72rgro8sk134hj836u8m2b32ii7qvpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNkgPBtAWWXAldtQNPXdmKwHFcD7Q9_S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853907792035-a72rgro8sk134hj836u8m2b32ii7qvpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
